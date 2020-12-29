@@ -1,5 +1,5 @@
 # Giang Dao
-## I'm a Deep Learning enthusiast
+## Deep Learning enthusiast
 - 5 years of experience with computer vision, deep learning & reinforcement learning
 - PhD student at UNC Charlotte
 - Looking to collaborate with other researchers and project ideas
