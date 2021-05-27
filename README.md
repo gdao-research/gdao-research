@@ -11,4 +11,4 @@ Prototyping and delivering AI/ML solutions to challenges
 [<img aligh="left" alt="gdao-research | LinkedIN" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpWvSBTG0snnoSqt8RDNqYZGLzJxR9Bxv7g&usqp=CAU" />](https://www.linkedin.com/in/daogiang/)
 [<img aligh="left" alt="gdao-research | LinkedIN" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/768px-High-contrast-mail-mark-unread.svg.png" />](mailto:gdao.research@gmail.com)
 ## GitHub Stats:
-<img align="left" alt="gdao-research's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gdao-research&show_icons=true&hide_border=true">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdao-research)](https://github.com/anuraghazra/github-readme-stats)
