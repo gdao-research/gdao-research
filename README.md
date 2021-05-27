@@ -2,7 +2,7 @@
 Prototyping and delivering AI/ML solutions to challenges
 ## Deep Learning enthusiast
 - 6 years of experience with deep learning & reinforcement learning
-- PhD candidate at UNC Charlotte
+- 2021 Summer Google Intern | PhD candidate at UNC Charlotte
 - Looking to collaborate with other researchers and project ideas
 - **Goal**: Contribute more to open source projects
 
