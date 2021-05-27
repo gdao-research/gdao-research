@@ -2,7 +2,7 @@
 Prototyping and delivering AI/ML solutions to challenges
 ## Deep Learning enthusiast
 - 6 years of experience with deep learning & reinforcement learning
-- PhD student at UNC Charlotte
+- PhD candidate at UNC Charlotte
 - Looking to collaborate with other researchers and project ideas
 - **Goal**: Contribute more to open source projects
 
