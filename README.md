@@ -1,6 +1,7 @@
 # Giang Dao
 Prototyping and delivering AI/ML solutions to challenges
 ## Deep Learning enthusiast
+- Incoming Senior Data Scientist at Microsoft
 - 6 years of experience with deep learning & reinforcement learning
 - 2021 Summer Google Intern | PhD candidate at UNC Charlotte
 - Looking to collaborate with other researchers and project ideas
